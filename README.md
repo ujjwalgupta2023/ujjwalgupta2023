@@ -3,7 +3,7 @@
 
 
  
-<a href="https://github.com/belelaritra"><img align="right" width="50%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
+<a><img align="right" width="50%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 </p>
 <h4>  - You can connect with me on Twitter :</h4><p align="left"> <a href="https://twitter.com/_ujjwal_gupta_" target="blank">  <img src="https://img.shields.io/twitter/follow/_ujjwal_gupta_?logo=twitter&style=for-the-badge" alt="_ujjwal_gupta_" /></a> </p>
 
