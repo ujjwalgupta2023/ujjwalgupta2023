@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Gupta</h1>
 <h3 align="center">A Computer Science Engineer, Currently Learning and Exploring more on Frontend Development<br> and JAVA Programming language.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalgupta9125&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalgupta9125" /> </p>
-<p align="left">
+
  
-<a href="https://github.com/belelaritra"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
+<a href="https://github.com/belelaritra"><img align="right" width="50%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 </p>
 <h4>  - You can connect with me on Twitter :</h4><p align="left"> <a href="https://twitter.com/_ujjwal_gupta_" target="blank">  <img src="https://img.shields.io/twitter/follow/_ujjwal_gupta_?logo=twitter&style=for-the-badge" alt="_ujjwal_gupta_" /></a> </p>
 
