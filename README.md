@@ -7,7 +7,7 @@
 </p>
 <h4>  - You can connect with me on Twitter :</h4><p align="left"> <a href="https://twitter.com/_ujjwal_gupta_" target="blank">  <img src="https://img.shields.io/twitter/follow/_ujjwal_gupta_?logo=twitter&style=for-the-badge" alt="_ujjwal_gupta_" /></a> </p>
 
-- 📫 How to reach me **ujjwalgupta9125@gmail.com**
+- 📫 How to reach me **ujjwalgupta2023.dev@gmail.com**
 
 <div align = "center">
 <h3 align="left">Connect with me:</h3>
