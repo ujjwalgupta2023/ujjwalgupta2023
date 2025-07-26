@@ -3,7 +3,7 @@
 
 
  
-<a href="https://github.com/ujjwalgupta9125"><img align="right" width="50%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
+<a href="https://github.com/ujjwalgupta2023"><img align="right" width="50%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
 </p>
 <h4>  - You can connect with me on Twitter :</h4><p align="left"> <a href="https://twitter.com/_ujjwal_gupta_" target="blank">  <img src="https://img.shields.io/twitter/follow/_ujjwal_gupta_?logo=twitter&style=for-the-badge" alt="_ujjwal_gupta_" /></a> </p>
 
@@ -29,10 +29,10 @@
 <div align = "center">
 <!-- ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalgupta9125&theme=dark)  -->
  
-![Ujjwal github stats](https://github-readme-stats.vercel.app/api?username=ujjwalgupta9125&show_icons=true&theme=radical&line_height=27)
+![Ujjwal github stats](https://github-readme-stats.vercel.app/api?username=ujjwalgupta2023&show_icons=true&theme=radical&line_height=27)
 <!-- ![Ujjwal github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalgupta9125&hide=css,java,html&theme=radical) -->
 </div>
 
 <div align = "center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalgupta9125&" alt="ujjwalgupta9125" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalgupta2023&" alt="ujjwalgupta2023" /></p>
 </div>
