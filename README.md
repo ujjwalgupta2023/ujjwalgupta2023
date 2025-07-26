@@ -27,7 +27,7 @@
 * **Backend Development:** Spring Boot, Spring Framework, REST APIs
 * **Cloud Platform:** Google Cloud Platform (GCP)
 * **CS Foundations:** Data Structures, Algorithms, Database Management Systems (DBMS)
-* **Developer Tools:** Git, Docker, Maven, Gradle
+* **Developer Tools:** Git
 * **Emerging Tech:**  Currently learning about large language models (LLMs), prompt engineering, and the use of generative AI in modern applications
 
 ---
